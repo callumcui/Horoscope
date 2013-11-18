@@ -34,7 +34,7 @@ public class ConstellationItem extends Activity {
 		super.onStart();
 	}
 
-	private String test = "123";
+	private String test = "1234";
 	private ImageView imageView;
 	private TextView contentTextView;
 	private TextView nameTextView;
