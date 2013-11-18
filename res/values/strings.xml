@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Horoscope</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aquarius">aquarius</string>
+    <string name="aries">aries</string>
+    <string name="cancer">cancer</string>
+    <string name="capricorn">capricorn</string>
+    <string name="gemini">gemini</string>
+    <string name="leo">leo</string>
+    <string name="libra">libra</string>
+    <string name="pisces">pisces</string>
+    <string name="sagittarius">sagittarius</string>
+    <string name="scorpio">scorpio</string>
+    <string name="taurus">taurus</string>
+    <string name="virgo">virgo</string>
+    <string name="title_activity_constellation_item">ConstellationItem</string>
+
+</resources>
