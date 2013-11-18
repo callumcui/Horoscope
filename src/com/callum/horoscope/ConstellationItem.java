@@ -34,7 +34,6 @@ public class ConstellationItem extends Activity {
 		super.onStart();
 	}
 
-	private String a = "aa";
 	private ImageView imageView;
 	private TextView contentTextView;
 	private TextView nameTextView;
