@@ -39,6 +39,7 @@ public class MainActivity extends Activity implements OnItemSelectedListener,
 		gridView.setOnItemSelectedListener(this);
 		
 		String a = "1";
+		//comment by Lakin
 	}
 
 	@Override
